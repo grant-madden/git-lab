@@ -65,5 +65,38 @@ Date:   Fri Sep 6 16:23:53 2019 -0400
     Initial commit
 
 #Answer 9
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	modified:   README.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	answers.md
+
+#Answer 10
+No
+
+#Answer 11
+Username for 'https://github.com': grant-madden
+Password for 'https://grant-madden@github.com': 
+To https://github.com/grant-madden/git-lab.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/grant-madden/git-lab.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+#Answer 12
+Yes
+
+#Answer 13
+.  ..  .git  .gitignore  README.md
 
 
